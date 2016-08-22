@@ -1,0 +1,7 @@
+[package]
+name = "find-dups"
+version = "0.1.0"
+authors = ["Hugh Manning <hugh_manning@yahoo.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
